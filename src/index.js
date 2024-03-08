@@ -592,6 +592,7 @@ document.body.addEventListener("click", (e) => {
     }
 })
 
+
 if (getQueryParamValue("c4rn")) {
     const steinScript = document.createElement("script");
     steinScript.setAttribute("src", "https://unpkg.com/stein-js-client");
