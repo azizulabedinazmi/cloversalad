@@ -10,7 +10,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0,1] }
         ],
         difficulty: 0,
         seasons: [
@@ -59,7 +60,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         difficulty: 0,
         seasons: [
@@ -104,7 +106,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         difficulty: 0,
         seasons: [
@@ -153,7 +156,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [1] }
         ],
         difficulty: 0,
         seasons: [
@@ -198,7 +202,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0, 1] }
+            { moment: [0, 1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -243,7 +248,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0, 1] }
+            { moment: [0, 1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -288,7 +294,7 @@ export const scotlandFish = [
         attributes: [
             { shadow: [] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
         ],
         difficulty: 0,
         seasons: [
@@ -341,7 +347,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -386,7 +393,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -443,7 +451,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1,2] }
         ],
         difficulty: 0,
         seasons: [
@@ -496,7 +505,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0,1] }
         ],
         difficulty: 0,
         seasons: [
@@ -545,7 +555,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         difficulty: 0,
         seasons: [
@@ -590,7 +601,7 @@ export const scotlandFish = [
         attributes: [
             { shadow: [] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
         ],
         difficulty: 0,
         seasons: [
@@ -635,7 +646,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1,2] }
         ],
         difficulty: 0,
         seasons: [
@@ -688,7 +700,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -737,7 +750,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -790,7 +804,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -851,7 +866,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1,2] }
         ],
         difficulty: 0,
         seasons: [
@@ -900,7 +916,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1,2] }
         ],
         difficulty: 0,
         seasons: [
@@ -953,7 +970,7 @@ export const scotlandFish = [
         attributes: [
             { shadow: [] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
         ],
         difficulty: 0,
         seasons: [
@@ -1006,7 +1023,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         difficulty: 1,
         seasons: [
@@ -1055,7 +1073,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [1] },
             { rods: [2,3,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         difficulty: 1,
         seasons: [
@@ -1104,7 +1123,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 1,
         seasons: [
@@ -1149,7 +1169,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         difficulty: 1,
         seasons: [
@@ -1194,7 +1215,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [1] }
         ],
         difficulty: 2,
         seasons: [
@@ -1239,7 +1261,8 @@ export const scotlandFish = [
         attributes: [
             { shadow: [4] },
             { rods: [2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0] }
         ],
         difficulty: 1,
         seasons: [

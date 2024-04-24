@@ -114,7 +114,8 @@ export const glFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             false,
@@ -164,7 +165,7 @@ export const glFish = [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [0,1] }
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -271,7 +272,8 @@ export const glFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -329,7 +331,7 @@ export const glFish = [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [2] }
+            { speed: [1,2] }
         ],
         seasons: [
             false,
@@ -378,7 +380,8 @@ export const glFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             false,
@@ -432,7 +435,7 @@ export const glFish = [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [0,1] }
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -493,7 +496,8 @@ export const glFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1,2] }
         ],
         seasons: [
             false,
@@ -542,7 +546,8 @@ export const glFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1,2] }
         ],
         seasons: [
             false,
@@ -587,7 +592,8 @@ export const glFish = [
         attributes: [
             { shadow: [0] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -640,7 +646,8 @@ export const glFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0,1] }
         ],
         seasons: [
             true,
@@ -693,7 +700,8 @@ export const glFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -804,7 +812,7 @@ export const glFish = [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [1] }
+            { speed: [1] },
         ],
         seasons: [
             false,
@@ -908,7 +916,8 @@ export const glFish = [
         attributes: [
             { shadow: [2] },
             { rods: [1,2,3,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0,1] }
         ],
         seasons: [
             false,
@@ -965,7 +974,8 @@ export const glFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [1,2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -1020,7 +1030,8 @@ export const glFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [1,2,3,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1073,7 +1084,8 @@ export const glFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1118,7 +1130,8 @@ export const glFish = [
         attributes: [
             { shadow: [2] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1208,7 +1221,8 @@ export const glFish = [
         attributes: [
             { shadow: [3,4] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             false,

@@ -11,7 +11,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [2] }
         ],
         seasons: [
             true,
@@ -64,7 +65,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -117,7 +119,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -170,7 +173,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [1,2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -219,7 +223,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2,3,4] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0] }
         ],
         difficulty: 0,
         seasons: [
@@ -272,7 +277,7 @@ export const australiaFish = [
         attributes: [
             { shadow: [] },
             { rods: [1,2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
         ],
         difficulty:1,
         seasons: [
@@ -330,7 +335,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [3] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0,1] }
         ],
         seasons: [
             false,
@@ -383,7 +389,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [1] }
         ],
         seasons: [
             false,
@@ -437,7 +444,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -491,7 +499,7 @@ export const australiaFish = [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0] },
-            { speed: [0,1] }
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -541,7 +549,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0,1] }
         ],
         seasons: [
             false,
@@ -643,7 +652,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -698,7 +708,7 @@ export const australiaFish = [
             { shadow: [3,4] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -748,7 +758,7 @@ export const australiaFish = [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -805,7 +815,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -856,7 +867,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0,1] }
         ],
         seasons: [
             true,
@@ -905,7 +917,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0] }
+            { moment: [0] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -951,7 +964,7 @@ export const australiaFish = [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [0,1] },
+            { speed: [0] },
         ],
         seasons: [
             true,
@@ -1014,7 +1027,7 @@ export const australiaFish = [
             { shadow: [0] },
             { rods: [0,1,2,3,4,5] },
             { moment: [0,1] },
-            { speed: [1] },
+            { speed: [0] },
         ],
         seasons: [
             false,
@@ -1059,7 +1072,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [0,1] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1113,7 +1127,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [0,1,2,3,4,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         seasons: [
             false,
@@ -1173,7 +1188,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [3,4] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty:2,
         seasons: [
@@ -1226,7 +1242,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [1,2] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [0] }
         ],
         difficulty: 1,
         seasons: [
@@ -1280,7 +1297,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [3] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1327,7 +1345,7 @@ export const australiaFish = [
         },
         difficulty: 1,
         attributes: [
-            { shadow: [1,2] },
+            { shadow: [] },
             { rods: [1,2,3,5] },
             { moment: [1] }
         ],
@@ -1374,7 +1392,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [3] },
             { rods: [2,3,5] },
-            { moment: [0,1] }
+            { moment: [0,1] },
+            { speed: [1] }
         ],
         seasons: [
             true,
@@ -1424,7 +1443,8 @@ export const australiaFish = [
         attributes: [
             { shadow: [2,3] },
             { rods: [2,3,5] },
-            { moment: [1] }
+            { moment: [1] },
+            { speed: [0] }
         ],
         seasons: [
             true,
@@ -1470,7 +1490,7 @@ export const australiaFish = [
             pt: "arraia"
         },
         attributes: [
-            { shadow: [3] },
+            { shadow: [] },
             { rods: [2,3,5] },
             { moment: [0,1] }
         ],
